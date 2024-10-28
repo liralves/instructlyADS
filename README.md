@@ -199,5 +199,52 @@ Navegue até a URL e pronto.
 <img src="static/images/SPRINT1.jpeg" alt="SPRINT 1" width="1000">
 </p>
 
+### PROGRAMAÇÃO PAREADA
+
+<p align="justify">
+A programação pareada ocorreu da seguinte maneira. O grupo, composto por 5 integrantes, a cada par de integrantes, é dividido uma classe, enquanto que um integrante fica com uma classe inteiramente só. No caso, temos as classes de Usuário, Estudante e Professor. A classe de Usuário é constituida da seguinte maneira, e foi desenvolvida pelos membros Gustavo e Diego.
+   
+```
+class User(AbstractBaseUser):
+    email = models.EmailField(unique=True)
+    is_active = models.BooleanField(default=True)
+    is_staff = models.BooleanField(default=False)
+
+    objects = UserManager()
+
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = []
+
+    def __str__(self):
+        return self.email
+````
+A classe Estudante, desenvolvida por Samuel e Kailane:
+
+```
+class Estudante(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE)  # Relaciona o estudante ao usuário
+    nome = models.CharField(max_length=100)
+    email_institucional = models.EmailField()
+    curso = models.CharField(max_length=100)
+    periodo = models.CharField(max_length=10)
+    matricula = models.CharField(max_length=20)
+
+    def __str__(self):
+        return self.nome
+```
+A classe Professor, desenvolvida por Luana Lira:
+
+```
+class Professor(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE) 
+    nome = models.CharField(max_length=100)
+    email_institucional = models.EmailField()
+    departamento = models.CharField(max_length=100)
+
+    def __str__(self):
+        return self.nome
+```
+Por hora, todas as partes do código referente às classes são responsáveis por seus pares de programadores. Dessa forma, a divisão do desenvolvimento da plataforma fica segura.
+</p>
 
 
