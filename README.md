@@ -247,4 +247,9 @@ class Professor(models.Model):
 Por hora, todas as partes do código referente às classes são responsáveis por seus pares de programadores. Dessa forma, a divisão do desenvolvimento da plataforma fica segura.
 </p>
 
+### QUADRO JIRA HISTÓRIAS FINALIZADAS
+<p align="justify">
+Histórias de usuário realizadas e finalizadas. A sua conclusão pode ser vista através da SCREENCAST da plataforma.
+<img src="static/images/" alt="SPRINT 3" width="1000">
+</p>
 
