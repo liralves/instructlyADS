@@ -253,3 +253,21 @@ Histórias de usuário realizadas e finalizadas. A sua conclusão pode ser vista
 <img src="static/images/SPRINT4.png" alt="SPRINT 4" width="1000">
 </p>
 
+### SKETCH & STORYBOARD 01
+<div style="display: inline-block;">
+   <img src="static/images/sketcheFINAL.jpg" alt="sketch 1" width="400">
+   <img src="static/images/storyFINAL.jpeg" alt="storyboard 1" width="400">
+</div>
+
+### SKETCH & STORYBOARD 02
+<div style="display: inline-block;">
+   <img src="static/images/sketcheFN2.jpg" alt="sketch 2" width="400">
+   <img src="static/images/storyFN2.jpg" alt="storyboard 2" width="400">
+</div>
+
+### SCREENCAST 
+<p align="justify">
+
+<img src="static/video/tela_FINAL.gif" alt="Screencast" width="800">
+</p>
+
