@@ -271,3 +271,9 @@ Histórias de usuário realizadas e finalizadas. A sua conclusão pode ser vista
 <img src="static/video/tela_FINAL.gif" alt="Screencast" width="800">
 </p>
 
+### DIAGRAMA DE ATIVIDADES 
+<div style="display: inline-block;">
+   <img src="static/images/DIAGRAMAFN1.jpg" alt="DiagramaFN1" width="400">
+   <img src="static/images/DIAGRAMAFN2.jpg" alt="DiagramaFN2" width="400">
+   <img src="static/images/DIAGRAMAFN3.jpg" alt="DiagramaFN3" width="400">
+</div>
