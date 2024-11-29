@@ -250,6 +250,6 @@ Por hora, todas as partes do código referente às classes são responsáveis po
 ### QUADRO JIRA HISTÓRIAS FINALIZADAS
 <p align="justify">
 Histórias de usuário realizadas e finalizadas. A sua conclusão pode ser vista através da SCREENCAST da plataforma.
-<img src="static/images/" alt="SPRINT 3" width="1000">
+<img src="static/images/SPRINT4.png" alt="SPRINT 4" width="1000">
 </p>
 
