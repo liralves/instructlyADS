@@ -5,7 +5,7 @@
 
 </div>
 
-# UNIVRSIDADE CATÓLICA DE PERNAMBUCO
+# UNIVERSIDADE CATÓLICA DE PERNAMBUCO
 <p align="center">
    <img src="http://www1.unicap.br/icam/wp-content/uploads/2019/06/marca_nova.svg" />
   </p>
