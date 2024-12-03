@@ -277,3 +277,13 @@ Histórias de usuário realizadas e finalizadas. A sua conclusão pode ser vista
    <img src="static/images/DIAGRAMAFN2.jpg" alt="DiagramaFN2" width="400">
    <img src="static/images/DIAGRAMAFN3.jpg" alt="DiagramaFN3" width="400">
 </div>
+
+### Pessoas Desenvolvedoras do Projeto
+
+[Adryan Rafael](https://github.com/Adryan-raf)<br>
+[Luana Lira](https://github.com/liralves)<br>
+[Kailane Lisley](https://github.com/KailaneLisley)<br>
+[Gustavo Antônio](https://github.com/gustavoantonioss)<br>
+[Samuel Ponciano](https://github.com/SamuelPonciano)<br>
+[Diego Mendes](https://github.com/DiegoMendes72)<br>
+
